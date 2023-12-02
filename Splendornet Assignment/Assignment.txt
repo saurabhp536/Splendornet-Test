@@ -1,0 +1,42 @@
+Dear Candidate
+Welcome to Splendornet Technologies Pvt Ltd
+ 
+First of All please go through all the text of assignment. 
+
+Every bit of Assignment is important and carries different weightage.
+
+You have 2:00 hrs to complete this assignment.
+
+Do not use chatGPT for writing your program. 
+
+
+Assignment
+
+You are provided with one CSV file having many records. 
+You need to write a program to process this csv file and find out following details. 
+The csv file is present in the zip file you have downloaded
+
+1) Find out count of each country from the CSV file. For example, There are 19 records for Country Italy. 
+
+
+Your Output should look like 
+
+Italy - 19  
+India - 35
+Srilanka 10
+....
+etc 
+
+
+2) Find out sum of numberrange for each county. numberrange is the column given in the CSV file 
+
+Your Output should look like 
+
+Italy - 45678
+India - 346757
+Srilanka 37643
+....
+etc 
+
+
+
